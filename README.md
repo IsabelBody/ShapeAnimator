@@ -12,6 +12,7 @@ A Java Shape Animator project I undertook for a university class in Object-Orien
 
 ## Usage
 To run the application, execute the `A3` class. Upon launch, a window titled "Bouncing Application" will appear, presenting the bouncing shapes interface. Users can interact with the provided tools panel to manipulate shapes and observe their dynamic behavior.
+![image](https://github.com/IsabelBody/ShapeAnimator/assets/140023141/37e6706c-52d7-4795-9944-c189fc6f155f)
 
 ## Dependencies
 - Java Development Kit (JDK)
@@ -22,6 +23,3 @@ To run the application, execute the `A3` class. Upon launch, a window titled "Bo
 2. Ensure you have JDK installed.
 3. Compile and run the `A3.java` file to launch the application.
 4. Explore the interface, add shapes, and experiment with customization options.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
